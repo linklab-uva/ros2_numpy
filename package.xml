@@ -3,7 +3,7 @@
   href="http://download.ros.org/schema/package_format3.xsd"
   schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>ros_numpy</name>
+  <name>ros2_numpy</name>
   <version>0.0.5</version>
   <description>A collection of conversion function for extracting numpy arrays from messages</description>
 
